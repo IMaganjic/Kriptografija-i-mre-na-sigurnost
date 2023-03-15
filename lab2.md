@@ -1,5 +1,5 @@
 1. What is the Address Resolution Protocol (ARP), and what is its role in a network?
-ARP - komunikacijski protokol kojim se dobiva fizička adresa na lokalnoj mreži iz poznate mrežne adrese. Najraširenija upotreva je na Enthernetu gdje se IP adrese povezuju s MAC adresama.
+ARP - komunikacijski protokol kojim se dobiva fizička adresa na lokalnoj mreži iz poznate mrežne adrese. Najraširenija upotreba je na Enthernetu gdje se IP adrese povezuju s MAC adresama.
 
 2.  is a Man-in-the-Middle (MitM) attack, and how does ARP spoofing enable it?
 Man-in-the-Middle attack je tip napada u kojem napadač ubaci sebe u metodu komunikacije. ARP se može iskoristiti lažiranjem ARP odgovora.
